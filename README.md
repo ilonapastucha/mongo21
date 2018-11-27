@@ -1,2 +1,2 @@
 
-https://dashboard.heroku.com/apps/radiant-retreat-92464
+https://radiant-retreat-92464.herokuapp.com/
